@@ -1,0 +1,2 @@
+# API Key
+api_key = 'fc76760c18cb4488a6a25807222510'
