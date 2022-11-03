@@ -1,4 +1,4 @@
-Beach Name,Beach Name,Latitude,Longitude,Sunrise,Sunset,Weather Description,Temperature,Water Temperature,Cloud Cover,Wind Speed,Wave Height
+Beach_ID,Beach Name,Latitude,Longitude,Sunrise,Sunset,Weather Description,Temperature,Water Temperature,Cloud Cover,Wind Speed,Wave Height
 0,Border Field State Park,32.54494004,-117.1223413,07:07 AM,05:57 PM,Patchy rain possible,62,67,70,12,3.0
 1,Pelican State Beach,41.992395,-124.209664,07:52 AM,06:09 PM,Light rain shower,48,52,100,4,10.5
 2,Crescent Beach,41.72836258,-124.1531784,07:51 AM,06:10 PM,Light rain shower,46,52,100,6,7.9
