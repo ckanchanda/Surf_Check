@@ -15,7 +15,11 @@ As a diehard lover of the ocean and surfing, and a user of surf resources such a
 - Potentially information on # of surfer/instructors
 - Categorize surf conditions by levels: beginner, intermediate, expert?
 
+## Schema
+
 
 ## Data Extraction Process
+
+
 
 ## Plans
