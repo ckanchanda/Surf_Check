@@ -23,6 +23,7 @@ We utilized the  [The World Weather Online API](https://www.worldweatheronline.c
 
 ## Schema
 
+![schema](https://user-images.githubusercontent.com/107447038/200467014-22c0b44f-0f66-487f-9dfe-6c681b06004d.jpg)
 
 
 ## Future Plans
