@@ -17,12 +17,14 @@ As a diehard lover of the ocean and surfing, and a user of surf resources such a
 - Potentially information on # of surfer/instructors
 - Categorize surf conditions by levels: beginner, intermediate, expert?
 
-## Schema
-
 
 ## Data Extraction Process
 
 We utilized the  [The World Weather Online API](https://www.worldweatheronline.com/developer/api/marine-weather-api.aspx) to grab daily weather data for the different popular surfing beaches in California. The list of different surfing beaches and their respective coordinates were scraped from [a Wikipedia article](https://en.wikipedia.org/wiki/List_of_beaches_in_California).
+
+
+## Schema
+
 
 
 ## Future Plans
