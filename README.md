@@ -10,7 +10,6 @@ As a diehard lover of the ocean and surfing, and a user of surf resources such a
 
 - What are the average for the parameters in these beaches? 
 - What popular surfing location in CA provides the most ideal surfing conditions in a given season? 
-- Can (unsupervised OR surfable/non-surfable logistic regression) machine learning algorithms be used to determine surfing condition viability? 
 - Temperature, swell size/period. Leave out wind direction if its too hard
 - Accessibility to beaches
 - Peak surfing times/locations?
@@ -28,3 +27,9 @@ We utilized the  [The World Weather Online API](https://www.worldweatheronline.c
 
 
 ## Future Plans
+
+#### Analysis
+
+#### Machine Learning Portion
+- We have yet to settle on a Machine Learning algorithm. 
+- We are considering either unsupervised OR surfable/non-surfable logistic regression model for this surf-check analysis.
