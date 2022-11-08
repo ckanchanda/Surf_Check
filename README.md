@@ -10,10 +10,9 @@ As a diehard lover of the ocean and surfing, and a user of surf resources such a
 
 - What are the average for the parameters in these beaches? 
 - What popular surfing location in CA provides the most ideal surfing conditions in a given season? 
-- Temperature, swell size/period. Leave out wind direction if its too hard
-- Accessibility to beaches
-- Peak surfing times/locations?
-- Potentially information on # of surfer/instructors
+- Temperature, swell size/period and how they reflect any specific trends
+- Accessibility to beaches overall
+- Peak surfing times/locations, and determining these qualities?
 - Categorize surf conditions by levels: beginner, intermediate, expert?
 
 
