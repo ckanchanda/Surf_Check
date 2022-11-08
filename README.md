@@ -34,3 +34,5 @@ The list of different surfing beaches and their respective coordinates were scra
 #### Machine Learning Portion
 - We have yet to settle on a Machine Learning algorithm. 
 - We are considering either unsupervised OR surfable/non-surfable logistic regression model for this surf-check analysis.
+
+#### Presentation
