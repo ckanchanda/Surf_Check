@@ -20,6 +20,6 @@ As a diehard lover of the ocean and surfing, and a user of surf resources such a
 
 ## Data Extraction Process
 
-
+We utilized the  [The World Weather Online API](https://www.worldweatheronline.com/developer/api/marine-weather-api.aspx) to grab daily weather data for the different popular surfing beaches in California.
 
 ## Plans
