@@ -1,3 +1,4 @@
+beach_id,beach_name,latitude,longitude,sunrise,sunset,weather_description,temperature,water_temperature,cloud_cover,wind_speed,wave_height
 0,Silver Strand State Beach,32.63466425,-117.1419929,06:16:00,16:49:00,Clear,61,63,0,5,2.3
 1,Imperial Beach,32.57583119,-117.1265769,06:16:00,16:49:00,Clear,61,63,0,5,2.3
 2,Border Field State Park,32.54494004,-117.1223413,06:16:00,16:50:00,Clear,61,63,0,5,2.3
