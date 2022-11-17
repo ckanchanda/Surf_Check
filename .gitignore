@@ -1,6 +1,9 @@
 #API Key
 config.py
 
+#2nd API attempt
+ck_api_call2.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
