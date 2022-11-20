@@ -36,11 +36,11 @@ The list of different surfing beaches and their respective coordinates were scra
 #### Machine Learning Portion
 - We have decided to use Supervised Machine Learning to predict wheather or not waves are surfable or unsurfable. 
 - The Supervised Machine Learning Algorithims we're using are:
-	*Cluster Centroids Undersampling
-	*Combination Sampling
-	*SMOTE Oversampling
-	*Native Random Oversampling
-	*Balanced Random Forest Classifier
-	*Easy Ensemble AdaBoost Classifer
+	* Cluster Centroids Undersampling
+	* Combination Sampling
+	* SMOTE Oversampling
+	* Native Random Oversampling
+	* Balanced Random Forest Classifier
+	* Easy Ensemble AdaBoost Classifer
 
 #### Presentation
