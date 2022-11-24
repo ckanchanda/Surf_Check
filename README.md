@@ -17,6 +17,8 @@ As a diehard lover of the ocean and surfing, and a user of surf resources such a
 
 The list of different surfing beaches and their respective coordinates were scraped from [a Wikipedia article](https://en.wikipedia.org/wiki/List_of_beaches_in_California).  We utilized the  [The World Weather Online API](https://www.worldweatheronline.com/developer/api/marine-weather-api.aspx) to grab daily weather data for the different popular surfing beaches in California. JSON files from the World Weather API were restructured into a concise dataframe containing all the information that we specifically want. 
 
+We found, however, that while the World Weather Online datasets offer variety in location, it does not offer variety in the time span covered. [The National Buoy Center](https://www.ndbc.noaa.gov/download_data.php?filename=46086h2021.txt.gz&dir=data/historical/stdmet/) provided historical data downloadable that spans years' worth of marine weather data. As finding all 252 instances of different beaches were not possible, we chose to specifically focus on the San Clemente beach, 2020-2021.
+
 
 ## Schema
 
