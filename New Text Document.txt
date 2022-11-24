@@ -26,8 +26,7 @@
   <div class="container-fluid">
     <div class="row">
     <div class="col-md-4">
-      <h3> Want to surf, but don't know what the conditions are? 
-        <small>Search for a beach below to check the surf forcast!</small></h3>
+      <h3> Want to surf, but don't know what the conditions are? <small>Search for a beach below to check its surf forcast!</small></h3>
     </div>
     <div class="col-md-8">
       <p>
@@ -59,19 +58,19 @@
       <table class="table table-striped">
         <thead>
           <tr>
-            <th>Beach ID</th>
-            <th>Beach Name</th>
-            <th>Latitude</th>
-            <th>Longitude</th>
-            <th>Sunrise</th>
-            <th>Sunset</th>
-            <th>Weather Description</th>
-            <th>Temperature</th>
-            <th>Water Temperature</th>
-            <th>Cloud Cover</th>
-            <th>Wind Speed</th>
-            <th>Wave Height</th>
-            <th>Wave Size</th>
+            <th>beach_id</th>
+            <th>beach_name</th>
+            <th>latitude</th>
+            <th>longitude</th>
+            <th>sunrise</th>
+            <th>sunset</th>
+            <th>weather_description</th>
+            <th>temperature</th>
+            <th>water_temperature</th>
+            <th>cloud_cover</th>
+            <th>wind_speed</th>
+            <th>wave_height</th>
+            <th>wave_size</th>
           </tr>
         </thead>
         <tbody></tbody>
