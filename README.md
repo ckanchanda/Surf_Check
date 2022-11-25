@@ -43,7 +43,7 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 2. and determine which of the six given Supervised Machine Learning algorithms would best fit the data given.
 The year 2020 dataset was used to train the machine learning algorithms, whereas 2021 served as the test.
 
-### Results
+## Machine Learning - Results
 * - those mark with astericks have anomalous data results. Potential reasons will be covered at the latter half of the results.
 
 #### Balanced Random Forest *
@@ -97,6 +97,8 @@ The year 2020 dataset was used to train the machine learning algorithms, whereas
 
 
 Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier are coincidentally both bias reduction models, and showed an uncanny level of accuracy. It is possible that data cleansing algorithms for an unbiased dataset (such as the weather dataset of San Clemente, which draws accurate and unbiased measurements from buoy nodules in the bay) has either acted extremely well or simply rendered the weather discrepancy null. As it is difficult to give a 1.00 rating Machine Learning algorithm credibility due to its sheer unlikeliness, we will choose the optimal algorithm from the remaining four results.
+
+Overall, the least fitting algorithm was the SMOTEEN method, with the accuracy score of 0.60. Otherwise, the Naive Random undersampling proves to be most effective. It has the accuracy score of 0.97 and, furthermore, makes up for its 0.80 accuracy of ideal surfing conditions with immaculate forecast of unideal surfing conditions, which is far more important to the health and safety of surfers. 
 
 
 
