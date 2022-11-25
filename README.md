@@ -25,13 +25,23 @@ We found, however, that while the World Weather Online datasets offer variety in
 ![schema](https://user-images.githubusercontent.com/107447038/200467014-22c0b44f-0f66-487f-9dfe-6c681b06004d.jpg)
 
 
-## Future Plans
+##  Machine Learning - Supervised
 
-#### Analysis
+Wave (swell) height is a crucial determinator of whether a day's weather provides surfable conditions or not. Using the San Clemente weather data from 2020 to 2021, we wanted to see whether we:
+1. would be able to predict the swell height of a given city given its different weather elements:
+- date, time (down to minutes)
+- wind direction and wind speed
+- water temperature
+- air temperature
+- wave period
+- sea level pressure
+- air pressure
+- station visibility (nautical miles)
+- pressure tendency 
+- water level (tide)
+
+2. and determine which of the six given Supervised Machine Learning algorithms would best fit the data given.
 
 
-#### Machine Learning Portion
-- We have yet to settle on a Machine Learning algorithm. 
-- We are considering either unsupervised OR surfable/non-surfable logistic regression model for this surf-check analysis.
 
 #### Presentation
