@@ -41,6 +41,7 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 - water level (tide)
 
 2. and determine which of the six given Supervised Machine Learning algorithms would best fit the data given.
+The year 2020 dataset was used to train the machine learning algorithms, whereas 2021 served as the test.
 
 ### Results
 * - those mark with astericks have anomalous data results. Potential reasons will be covered at the latter half of the results.
@@ -49,6 +50,7 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 - Accuracy score: 1.00
 - F-score average: 1.00
 - F-score for  ideal surfing (surfing_ideal) prediction: 1.00
+- F-score for unideal surfing (surfing_unideal) prediction: 1.00
 
 ![balancedrandomforest](https://user-images.githubusercontent.com/107447038/203899481-f125fc21-31ca-4e05-a7c4-1f67b6930a0d.png)
 
@@ -56,6 +58,7 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 - Accuracy score: 0.93
 - F-score average: 0.96
 - F-score for  ideal surfing (surfing_ideal) prediction: 0.82
+- F-score for unideal surfing (surfing_unideal) prediction: 0.98
 
 ![clustercentroids](https://user-images.githubusercontent.com/107447038/203899488-344899d4-d907-444f-9c6b-25e3dbcd67c0.png)
 
@@ -63,6 +66,7 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 - Accuracy score: 1.00
 - F-score average: 1.00
 - F-score for  ideal surfing (surfing_ideal) prediction: 1.00
+- F-score for unideal surfing (surfing_unideal) prediction: 1.00
 
 ![easyensemble](https://user-images.githubusercontent.com/107447038/203899494-abb6d4cd-2141-4bfd-9a6f-f6bac0e970e6.png)
 
@@ -70,6 +74,7 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 - Accuracy score: 0.97
 - F-score average: 0.97
 - F-score for  ideal surfing (surfing_ideal) prediction: 0.80
+- F-score for unideal surfing (surfing_unideal) prediction: 1.00
 
 ![naiverandom](https://user-images.githubusercontent.com/107447038/203899497-50953764-6b90-4bd6-a8b4-2f4f37023b1a.png)
  
@@ -77,6 +82,7 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 - Accuracy score: 0.93
 - F-score average: 0.96
 - F-score for  ideal surfing (surfing_ideal) prediction: 0.82
+- F-score for unideal surfing (surfing_unideal) prediction: 0.98
 
 ![smote oversample](https://user-images.githubusercontent.com/107447038/203899518-3511cd76-c89b-4d28-b46d-29a44903f689.png)
 
@@ -85,8 +91,13 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 - Accuracy score: 0.60
 - F-score average: 0.60
 - F-score for  ideal surfing (surfing_ideal) prediction: 0.18
+- F-score for unideal surfing (surfing_unideal) prediction: 0.93
 
 ![smoteen](https://user-images.githubusercontent.com/107447038/203899533-ff2ef37b-5084-4f8c-9b7e-ca11aff92e80.png)
+
+
+Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier are coincidentally both bias reduction models, and showed an uncanny level of accuracy. It is possible that data cleansing algorithms for an unbiased dataset (such as the weather dataset of San Clemente, which draws accurate and unbiased measurements from buoy nodules in the bay) has either acted extremely well or simply rendered the weather discrepancy null. As it is difficult to give a 1.00 rating Machine Learning algorithm credibility due to its sheer unlikeliness, we will choose the optimal algorithm from the remaining four results.
+
 
 
 ## Presentation
