@@ -42,25 +42,50 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 
 2. and determine which of the six given Supervised Machine Learning algorithms would best fit the data given.
 
-#### Results
+### Results
+* - those mark with astericks have anomalous data results. Potential reasons will be covered at the latter half of the results.
 
-Balanced Random Forest
+#### Balanced Random Forest *
+- Accuracy score: 1.00
+- F-score average: 1.00
+- F-score for  ideal surfing (surfing_ideal) prediction: 1.00
+
 ![balancedrandomforest](https://user-images.githubusercontent.com/107447038/203899481-f125fc21-31ca-4e05-a7c4-1f67b6930a0d.png)
 
-Cluster Centroids
+#### Cluster Centroids
+- Accuracy score: 0.93
+- F-score average: 0.96
+- F-score for  ideal surfing (surfing_ideal) prediction: 0.82
+
 ![clustercentroids](https://user-images.githubusercontent.com/107447038/203899488-344899d4-d907-444f-9c6b-25e3dbcd67c0.png)
 
-Easy Ensemble
+#### Easy Ensemble *
+- Accuracy score: 1.00
+- F-score average: 1.00
+- F-score for  ideal surfing (surfing_ideal) prediction: 1.00
+
 ![easyensemble](https://user-images.githubusercontent.com/107447038/203899494-abb6d4cd-2141-4bfd-9a6f-f6bac0e970e6.png)
 
-Naive Random
+#### Naive Random
+- Accuracy score: 0.97
+- F-score average: 0.97
+- F-score for  ideal surfing (surfing_ideal) prediction: 0.80
+
 ![naiverandom](https://user-images.githubusercontent.com/107447038/203899497-50953764-6b90-4bd6-a8b4-2f4f37023b1a.png)
  
-SMOTE oversample
+#### SMOTE oversample
+- Accuracy score: 0.93
+- F-score average: 0.96
+- F-score for  ideal surfing (surfing_ideal) prediction: 0.82
+
 ![smote oversample](https://user-images.githubusercontent.com/107447038/203899518-3511cd76-c89b-4d28-b46d-29a44903f689.png)
 
 
-SMOTEEN
+#### SMOTEEN
+- Accuracy score: 0.60
+- F-score average: 0.60
+- F-score for  ideal surfing (surfing_ideal) prediction: 0.18
+
 ![smoteen](https://user-images.githubusercontent.com/107447038/203899533-ff2ef37b-5084-4f8c-9b7e-ca11aff92e80.png)
 
 
