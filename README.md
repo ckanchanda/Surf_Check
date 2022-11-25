@@ -42,6 +42,26 @@ Wave (swell) height is a crucial determinator of whether a day's weather provide
 
 2. and determine which of the six given Supervised Machine Learning algorithms would best fit the data given.
 
+#### Results
+
+Balanced Random Forest
+![balancedrandomforest](https://user-images.githubusercontent.com/107447038/203899481-f125fc21-31ca-4e05-a7c4-1f67b6930a0d.png)
+
+Cluster Centroids
+![clustercentroids](https://user-images.githubusercontent.com/107447038/203899488-344899d4-d907-444f-9c6b-25e3dbcd67c0.png)
+
+Easy Ensemble
+![easyensemble](https://user-images.githubusercontent.com/107447038/203899494-abb6d4cd-2141-4bfd-9a6f-f6bac0e970e6.png)
+
+Naive Random
+![naiverandom](https://user-images.githubusercontent.com/107447038/203899497-50953764-6b90-4bd6-a8b4-2f4f37023b1a.png)
+ 
+SMOTE oversample
+![smote oversample](https://user-images.githubusercontent.com/107447038/203899518-3511cd76-c89b-4d28-b46d-29a44903f689.png)
 
 
-#### Presentation
+SMOTEEN
+![smoteen](https://user-images.githubusercontent.com/107447038/203899533-ff2ef37b-5084-4f8c-9b7e-ca11aff92e80.png)
+
+
+## Presentation
