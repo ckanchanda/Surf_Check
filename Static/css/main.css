@@ -1,10 +1,10 @@
 body {
 
-  color: #f7f7f7;
+  color: #000000;
 }
 
 .jumbotron {
   background-image: url("../images/ocean.jpg");
-  background-size: 100% 100%;
+  background-size: 70% 70%;
   text-align: center;
 }
