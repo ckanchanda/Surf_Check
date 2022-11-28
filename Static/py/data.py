@@ -48,7 +48,7 @@ var = [
   {'beach_id': 47, 'beach_name': 'Roosevelt Beach', 'latitude': 37.48808914, 'longitude': -122.4566241}, 
   {'beach_id': 48, 'beach_name': 'Dunes Beach', 'latitude': 37.48509246, 'longitude': -122.4539204}, 
   {'beach_id': 49, 'beach_name': 'Half Moon Bay State Beach', 'latitude': 37.47766417, 'longitude': -122.4500385}, 
-  {'beach_id': 50, 'beach_name': 'Francis Beach', 'latitude': 37.46564519, 'longitude': -122.4467106}, 
+  'beach_id': 50, 'beach_name': 'Francis Beach', 'latitude': 37.46564519, 'longitude': -122.4467106}, 
   {'beach_id': 51, 'beach_name': 'Poplar Beach', 'latitude': 37.45607296, 'longitude': -122.4447794}, 
   {'beach_id': 52, 'beach_name': 'Redondo State Beach', 'latitude': 37.44070715, 'longitude': -122.4437066}, 
   {'beach_id': 53, 'beach_name': 'Cowell Ranch Beach', 'latitude': 37.42101853, 'longitude': -122.4351767}, 
