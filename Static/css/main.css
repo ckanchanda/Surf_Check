@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url("./images/ocean.jpg");
+  background-image: url("../images/ocean.jpg");
   background-size: 70% 70%;
   text-align: center;
 }
