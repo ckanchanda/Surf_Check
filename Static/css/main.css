@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url("https://github.com/ckanchanda/Surf_Check/blob/main/Static/images/ocean.jpg");
+  background-image: url("main/Static/images/ocean.jpg");
   background-size: 70% 70%;
   text-align: center;
 }
