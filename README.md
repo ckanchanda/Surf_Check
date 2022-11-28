@@ -1,7 +1,5 @@
 # Surf_Check
 
-# Surf_Check
-
 ![logo](https://user-images.githubusercontent.com/107447038/200466271-675c0d51-55e3-4ac8-a701-a31bbafb7582.png)
 
 ## Overview
