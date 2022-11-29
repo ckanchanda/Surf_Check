@@ -159,7 +159,7 @@ beach_id,beach_name,latitude,longitude
 158,Victoria Beach,33.51689843,-117.7611228
 159,Aliso Beach,33.51038632,-117.7525398
 160,West Street Beach,33.50595903,-117.7486526
-161,"1,000 Steps Beach",33.4985416,-117.7414247
+161,1,000 Steps Beach,33.4985416,-117.7414247
 162,Salt Creek County Beach,33.47769283,-117.7226023
 163,Doheny State Beach,33.46287214,-117.6873259
 164,Capistrano Beach Park,33.45614113,-117.6676277
@@ -168,10 +168,10 @@ beach_id,beach_name,latitude,longitude
 167,San Clemente City Beach,33.42782296,-117.6280388
 168,San Clemente State Beach,33.40365884,-117.6048362
 169,San Onofre State Beach,33.37388206,-117.5662879
-170,"Del Mar Beach, Camp Pendleton",33.22066881,-117.4072513
+170,Del Mar Beach, Camp Pendleton,33.22066881,-117.4072513
 171,Oceanside Harbor Beach,33.204828,-117.394755
 172,Oceanside City Beach,33.19538512,-117.3857032
-173,"Buccaneer Beach, Oceanside",33.17851501,-117.3703371
+173,Buccaneer Beach, Oceanside,33.17851501,-117.3703371
 174,South Oceanside Beach (Cassidy Street),33.17311454,-117.3655589
 175,Saint Malo Beach,33.16615726,-117.360099
 176,Carlsbad City Beach,33.15757212,-117.3532021
